@@ -1,0 +1,29 @@
+### Requisição GET
+GET http://localhost:5271/
+
+###
+GET http://localhost:5271/Clientes
+
+###
+GET http://localhost:5271/
+
+### Requisição POST
+POST http://localhost:5271/tarefas 
+Content-Type: application/json
+
+{
+    "nome":"Comprar Refrigerante",
+    "concluida": false
+}
+
+### Requisição PUT
+PUT http://localhost:5271/tarefas/2
+Content-Type: application/json
+
+{
+    "nome":"Comprar Pizza",
+    "concluida": true
+}
+
+### Requisição DELETE
+DELETE http://localhost:5271/tarefas/1

@@ -8,10 +8,11 @@ Esta é uma API desenvolvida em C# como parte de uma atividade avaliativa. Ela f
 A API foi desenvolvida pelos seguintes alunos:
 
 1. Anne Caroline Jadoski Ribas - RGM: 34123768
-2. Gabriel Del Gaudio Fagundes - RGM: 32775792
-3. Marcela dos Santos Gorge - RGM: 34408088
-4. Mell Karine Bueno - RGM: 35306335
-5. Thiago Guimarães - RGM: 34172050
+2. Davi Cardoso Ferreira - RGM: 33597782
+3. Gabriel Del Gaudio Fagundes - RGM: 32775792
+4. Marcela dos Santos Gorge - RGM: 34408088
+5. Mell Karine Bueno - RGM: 35306335
+6. Thiago Guimarães - RGM: 34172050
 
 ## Banco de Dados
 
